@@ -18,7 +18,7 @@ onmouseover="document.all.item('txt02').
 style.visibility='visible'" 
 onmouseout="document.all.item('txt02').
 style.visibility='hidden'"&gt;
-　　🐜はるからあきにかけて&lt;/span&gt;
+🐜はるからあきにかけて&lt;/span&gt;
 &lt;span ID="txt02" style="visibility:hidden; 
 color:#1EAEDB;" &gt;From Spring to Autumn&lt;/span&gt;
 &lt;br&gt;
@@ -58,7 +58,7 @@ onmouseover="document.all.item('txt06').
 style.visibility='visible'" 
 onmouseout="document.all.item('txt06').
 style.visibility='hidden'"&gt;
-　　　　🐜てのひらぐらいだよ&lt;/span&gt;
+　　　　　　　　　🐜てのひらぐらいだよ&lt;/span&gt;
 &lt;span ID="txt06" style="visibility:hidden; 
 color:#1EAEDB;" &gt;About the size of your hand &lt;/span&gt;
 &lt;br&gt;
@@ -78,7 +78,7 @@ onmouseover="document.all.item('txt08').
 style.visibility='visible'" 
 onmouseout="document.all.item('txt08').
 style.visibility='hidden'"&gt;
-　　　　　　🐜はなのみつをすっているよ&lt;/span&gt;
+　　　　　　　　　🐜はなのみつをすっているよ&lt;/span&gt;
 &lt;span ID="txt08" style="visibility:hidden; 
 color:#1EAEDB;" &gt;They are drinking the honey from the …&lt;/span&gt;&lt;/p&gt;</summary><content type="html">&lt;!--&lt;img alt="" src=""&gt;--&gt;
 
@@ -99,7 +99,7 @@ onmouseover="document.all.item('txt02').
 style.visibility='visible'" 
 onmouseout="document.all.item('txt02').
 style.visibility='hidden'"&gt;
-　　🐜はるからあきにかけて&lt;/span&gt;
+🐜はるからあきにかけて&lt;/span&gt;
 &lt;span ID="txt02" style="visibility:hidden; 
 color:#1EAEDB;" &gt;From Spring to Autumn&lt;/span&gt;
 &lt;br&gt;
@@ -139,7 +139,7 @@ onmouseover="document.all.item('txt06').
 style.visibility='visible'" 
 onmouseout="document.all.item('txt06').
 style.visibility='hidden'"&gt;
-　　　　🐜てのひらぐらいだよ&lt;/span&gt;
+　　　　　　　　　🐜てのひらぐらいだよ&lt;/span&gt;
 &lt;span ID="txt06" style="visibility:hidden; 
 color:#1EAEDB;" &gt;About the size of your hand &lt;/span&gt;
 &lt;br&gt;
@@ -159,7 +159,7 @@ onmouseover="document.all.item('txt08').
 style.visibility='visible'" 
 onmouseout="document.all.item('txt08').
 style.visibility='hidden'"&gt;
-　　　　　　🐜はなのみつをすっているよ&lt;/span&gt;
+　　　　　　　　　🐜はなのみつをすっているよ&lt;/span&gt;
 &lt;span ID="txt08" style="visibility:hidden; 
 color:#1EAEDB;" &gt;They are drinking the honey from the flowers.&lt;/span&gt;
 &lt;br&gt;
@@ -179,7 +179,7 @@ onmouseover="document.all.item('txt10').
 style.visibility='visible'" 
 onmouseout="document.all.item('txt10').
 style.visibility='hidden'"&gt;
-　　　　🐜きのはっぱにたまごをうむよ&lt;/span&gt;
+　　　　　　　　🐜きのはっぱにたまごをうむよ&lt;/span&gt;
 &lt;span ID="txt10" style="visibility:hidden; 
 color:#1EAEDB;" &gt;They lay their eggs on the leaves of trees.&lt;/span&gt;
 &lt;br&gt;
