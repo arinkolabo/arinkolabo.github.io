@@ -6,7 +6,7 @@
 &lt;!--１文目 --&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt01').
-style.visibility='visible'" 
+style.visibility='hidden'" 
 onmouseout="document.all.item('txt01').
 style.visibility='visible'"&gt;
 いつみつかる？&lt;/span&gt;
@@ -15,9 +15,9 @@ color:#1EAEDB;" &gt;Where do they find?&lt;/span&gt;
 &lt;br&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt02').
-style.visibility='visible'" 
+style.visibility='hidden'" 
 onmouseout="document.all.item('txt02').
-style.visibility='hidden'"&gt;
+style.visibility='visible'"&gt;
 🐜はるからあきにかけて&lt;/span&gt;
 &lt;span ID="txt02" style="visibility:hidden; 
 color:#1EAEDB;" &gt;From Spring to Autumn&lt;/span&gt;
@@ -26,9 +26,9 @@ color:#1EAEDB;" &gt;From Spring to Autumn&lt;/span&gt;
 &lt;!-- 2文目 --&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt03').
-style.visibility='visible'" 
+style.visibility='hidden'" 
 onmouseout="document.all.item('txt03').
-style.visibility='hidden'"&gt;
+style.visibility='visible'"&gt;
 どこにいるの？&lt;/span&gt;
 &lt;span ID="txt03" style="visibility:hidden; 
 color:#1EAEDB;" &gt;Where are they?&lt;/span&gt;
@@ -87,7 +87,7 @@ color:#1EAEDB;" &gt;They are drinking the honey from the …&lt;/span&gt;&lt;/p&
 &lt;!--１文目 --&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt01').
-style.visibility='visible'" 
+style.visibility='hidden'" 
 onmouseout="document.all.item('txt01').
 style.visibility='visible'"&gt;
 いつみつかる？&lt;/span&gt;
@@ -96,9 +96,9 @@ color:#1EAEDB;" &gt;Where do they find?&lt;/span&gt;
 &lt;br&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt02').
-style.visibility='visible'" 
+style.visibility='hidden'" 
 onmouseout="document.all.item('txt02').
-style.visibility='hidden'"&gt;
+style.visibility='visible'"&gt;
 🐜はるからあきにかけて&lt;/span&gt;
 &lt;span ID="txt02" style="visibility:hidden; 
 color:#1EAEDB;" &gt;From Spring to Autumn&lt;/span&gt;
@@ -107,9 +107,9 @@ color:#1EAEDB;" &gt;From Spring to Autumn&lt;/span&gt;
 &lt;!-- 2文目 --&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt03').
-style.visibility='visible'" 
+style.visibility='hidden'" 
 onmouseout="document.all.item('txt03').
-style.visibility='hidden'"&gt;
+style.visibility='visible'"&gt;
 どこにいるの？&lt;/span&gt;
 &lt;span ID="txt03" style="visibility:hidden; 
 color:#1EAEDB;" &gt;Where are they?&lt;/span&gt;
