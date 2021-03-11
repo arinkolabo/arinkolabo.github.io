@@ -8,9 +8,9 @@
 onmouseover="document.all.item('txt01').
 style.visibility='visible'" 
 onmouseout="document.all.item('txt01').
-style.visibility='hidden'"&gt;&lt;/p&gt;
-&lt;h4&gt;いつみつかる？&lt;/span&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;span ID="txt01" style="visibility:hidden; 
+style.visibility='hidden'"&gt;
+いつみつかる？&lt;/span&gt;
+&lt;span ID="txt01" style="visibility:hidden; 
 color:#1EAEDB;" &gt;Where do they find?&lt;/span&gt;
 &lt;br&gt;
 &lt;span style="color:#000000;" 
@@ -27,9 +27,9 @@ color:#1EAEDB;" &gt;From Spring to Autumn&lt;/span&gt;
 onmouseover="document.all.item('txt03').
 style.visibility='visible'" 
 onmouseout="document.all.item('txt03').
-style.visibility='hidden'"&gt;&lt;/p&gt;
-&lt;h4&gt;どこにいるの？&lt;/span&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;span ID="txt03" style="visibility:hidden; 
+style.visibility='hidden'"&gt;
+どこにいるの？&lt;/span&gt;
+&lt;span ID="txt03" style="visibility:hidden; 
 color:#1EAEDB;" &gt;Where are they?&lt;/span&gt;
 &lt;br&gt;
 &lt;span style="color:#000000;" 
@@ -41,16 +41,41 @@ style.visibility='hidden'"&gt;
 &lt;span ID="txt04" style="visibility:hidden; 
 color:#1EAEDB;" &gt;Flying to a nearby park or your house &lt;/span&gt;
 &lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;How big is they?&lt;/h4&gt;
-&lt;p&gt;🐜About the size of your hand
 &lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;What are they eating?&lt;/h4&gt;
-&lt;p&gt;🐜They are drinking the honey from the flowers.
+&lt;span style="color:#000000;" 
+onmouseover="document.all.item('txt05').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt05').
+style.visibility='hidden'"&gt;
+おおきさはどれぐらいなの？&lt;/span&gt;
+&lt;span ID="txt05" style="visibility:hidden; 
+color:#1EAEDB;" &gt;How big are they?&lt;/span&gt;
+&lt;span style="color:#000000;" 
+onmouseover="document.all.item('txt06').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt06').
+style.visibility='hidden'"&gt;
+🐜てのひらぐらいだよ&lt;/span&gt;
+&lt;span ID="txt06" style="visibility:hidden; 
+color:#1EAEDB;" &gt;About the size of your hand &lt;/span&gt;
 &lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;Where do they …&lt;/h4&gt;</summary><content type="html">&lt;!--&lt;img alt="" src=""&gt;--&gt;
+&lt;br&gt;
+&lt;span style="color:#000000;" 
+onmouseover="document.all.item('txt07').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt07').
+style.visibility='hidden'"&gt;
+なにをたべているの？&lt;/span&gt;
+&lt;span ID="txt07" style="visibility:hidden; 
+color:#1EAEDB;" &gt;What are they eating?&lt;/span&gt;
+&lt;span style="color:#000000;" 
+onmouseover="document.all.item('txt08').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt08').
+style.visibility='hidden'"&gt;
+🐜はなのみつをすっているよ&lt;/span&gt;
+&lt;span ID="txt08" style="visibility:hidden; 
+color:#1EAEDB;" &gt;They are drinking the honey from the …&lt;/span&gt;&lt;/p&gt;</summary><content type="html">&lt;!--&lt;img alt="" src=""&gt;--&gt;
 
 &lt;h4&gt;Graphium sarpedon&lt;/h4&gt;
 &lt;p&gt;&lt;br&gt;
@@ -59,9 +84,9 @@ color:#1EAEDB;" &gt;Flying to a nearby park or your house &lt;/span&gt;
 onmouseover="document.all.item('txt01').
 style.visibility='visible'" 
 onmouseout="document.all.item('txt01').
-style.visibility='hidden'"&gt;&lt;/p&gt;
-&lt;h4&gt;いつみつかる？&lt;/span&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;span ID="txt01" style="visibility:hidden; 
+style.visibility='hidden'"&gt;
+いつみつかる？&lt;/span&gt;
+&lt;span ID="txt01" style="visibility:hidden; 
 color:#1EAEDB;" &gt;Where do they find?&lt;/span&gt;
 &lt;br&gt;
 &lt;span style="color:#000000;" 
@@ -78,9 +103,9 @@ color:#1EAEDB;" &gt;From Spring to Autumn&lt;/span&gt;
 onmouseover="document.all.item('txt03').
 style.visibility='visible'" 
 onmouseout="document.all.item('txt03').
-style.visibility='hidden'"&gt;&lt;/p&gt;
-&lt;h4&gt;どこにいるの？&lt;/span&gt;&lt;/h4&gt;
-&lt;p&gt;&lt;span ID="txt03" style="visibility:hidden; 
+style.visibility='hidden'"&gt;
+どこにいるの？&lt;/span&gt;
+&lt;span ID="txt03" style="visibility:hidden; 
 color:#1EAEDB;" &gt;Where are they?&lt;/span&gt;
 &lt;br&gt;
 &lt;span style="color:#000000;" 
@@ -92,25 +117,95 @@ style.visibility='hidden'"&gt;
 &lt;span ID="txt04" style="visibility:hidden; 
 color:#1EAEDB;" &gt;Flying to a nearby park or your house &lt;/span&gt;
 &lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;How big is they?&lt;/h4&gt;
-&lt;p&gt;🐜About the size of your hand
 &lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;What are they eating?&lt;/h4&gt;
-&lt;p&gt;🐜They are drinking the honey from the flowers.
+&lt;span style="color:#000000;" 
+onmouseover="document.all.item('txt05').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt05').
+style.visibility='hidden'"&gt;
+おおきさはどれぐらいなの？&lt;/span&gt;
+&lt;span ID="txt05" style="visibility:hidden; 
+color:#1EAEDB;" &gt;How big are they?&lt;/span&gt;
+&lt;span style="color:#000000;" 
+onmouseover="document.all.item('txt06').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt06').
+style.visibility='hidden'"&gt;
+🐜てのひらぐらいだよ&lt;/span&gt;
+&lt;span ID="txt06" style="visibility:hidden; 
+color:#1EAEDB;" &gt;About the size of your hand &lt;/span&gt;
 &lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;Where do they lay their eggs？&lt;/h4&gt;
-&lt;p&gt;🐜they lay their eggs on the leaves of trees.
 &lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;Where are the larvae?&lt;/h4&gt;
-&lt;p&gt;🐜There're in the leaves.
+&lt;span style="color:#000000;" 
+onmouseover="document.all.item('txt07').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt07').
+style.visibility='hidden'"&gt;
+なにをたべているの？&lt;/span&gt;
+&lt;span ID="txt07" style="visibility:hidden; 
+color:#1EAEDB;" &gt;What are they eating?&lt;/span&gt;
+&lt;span style="color:#000000;" 
+onmouseover="document.all.item('txt08').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt08').
+style.visibility='hidden'"&gt;
+🐜はなのみつをすっているよ&lt;/span&gt;
+&lt;span ID="txt08" style="visibility:hidden; 
+color:#1EAEDB;" &gt;They are drinking the honey from the flowers.&lt;/span&gt;
 &lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;What do the larvae eat?&lt;/h4&gt;
-&lt;p&gt;🐜They eat the leaves.
+&lt;br&gt;
+&lt;span style="color:#000000;" 
+onmouseover="document.all.item('txt09').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt09').
+style.visibility='hidden'"&gt;
+どこにたまごをうむの？&lt;/span&gt;
+&lt;span ID="txt09" style="visibility:hidden; 
+color:#1EAEDB;" &gt;Where do they lay their eggs?&lt;/span&gt;
+&lt;span style="color:#000000;" 
+onmouseover="document.all.item('txt10').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt10').
+style.visibility='hidden'"&gt;
+🐜きのはっぱにたまごをうむよ&lt;/span&gt;
+&lt;span ID="txt10" style="visibility:hidden; 
+color:#1EAEDB;" &gt;They lay their eggs on the leaves of trees.&lt;/span&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="color:#000000;" 
+onmouseover="document.all.item('txt11').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt11').
+style.visibility='hidden'"&gt;
+ようちゅうはどこにいるの？&lt;/span&gt;
+&lt;span ID="txt11" style="visibility:hidden; 
+color:#1EAEDB;" &gt;Where are the larvae?&lt;/span&gt;
+&lt;span style="color:#000000;" 
+onmouseover="document.all.item('txt12').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt12').
+style.visibility='hidden'"&gt;
+🐜はっぱにいるよ&lt;/span&gt;
+&lt;span ID="txt12" style="visibility:hidden; 
+color:#1EAEDB;" &gt;There're in the leaves.&lt;/span&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;span style="color:#000000;" 
+onmouseover="document.all.item('txt13').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt13').
+style.visibility='hidden'"&gt;
+ようちゅうはなにをたべるの？&lt;/span&gt;
+&lt;span ID="txt13" style="visibility:hidden; 
+color:#1EAEDB;" &gt;What do the larvae eat?&lt;/span&gt;
+&lt;span style="color:#000000;" 
+onmouseover="document.all.item('txt14').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt14').
+style.visibility='hidden'"&gt;
+🐜はっぱをたべるよ&lt;/span&gt;
+&lt;span ID="txt04" style="visibility:hidden; 
+color:#1EAEDB;" &gt;They eat the leaves.&lt;/span&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
