@@ -1,37 +1,86 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>arinkolabo - いきもの</title><link href="https://arinkolabo.github.io/" rel="alternate"></link><link href="https://arinkolabo.github.io/feeds/ikimono.atom.xml" rel="self"></link><id>https://arinkolabo.github.io/</id><updated>2020-02-23T00:00:00+09:00</updated><entry><title>あおすじあげは</title><link href="https://arinkolabo.github.io/%E3%81%82%E3%81%8A%E3%81%99%E3%81%98%E3%81%82%E3%81%92%E3%81%AF.html" rel="alternate"></link><published>2020-02-23T00:00:00+09:00</published><updated>2020-02-23T00:00:00+09:00</updated><author><name>ありんこはかせ</name></author><id>tag:arinkolabo.github.io,2020-02-23:/あおすじあげは.html</id><content type="html">&lt;!--&lt;img alt="" src=""&gt;--&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>arinkolabo - いきもの</title><link href="https://arinkolabo.github.io/" rel="alternate"></link><link href="https://arinkolabo.github.io/feeds/ikimono.atom.xml" rel="self"></link><id>https://arinkolabo.github.io/</id><updated>2020-02-23T00:00:00+09:00</updated><entry><title>あおすじあげは</title><link href="https://arinkolabo.github.io/%E3%81%82%E3%81%8A%E3%81%99%E3%81%98%E3%81%82%E3%81%92%E3%81%AF.html" rel="alternate"></link><published>2020-02-23T00:00:00+09:00</published><updated>2020-02-23T00:00:00+09:00</updated><author><name>ありんこはかせ</name></author><id>tag:arinkolabo.github.io,2020-02-23:/あおすじあげは.html</id><summary type="html">&lt;!--&lt;img alt="" src=""&gt;--&gt;
 
 &lt;h4&gt;Graphium sarpedon&lt;/h4&gt;
 &lt;p&gt;&lt;br&gt;
 &lt;!--&lt;img alt="ごまだらかみきり_さしえ" src="https://lh3.googleusercontent.com/pw/ACtC-3czL1Ta4FLYMF48AMBhzzP2CtNd4TMO6QmmDKhrmi0USe4IqzxiMLkXzBVa2qFD7tD-UEjWDKd2wPQE-5XybaT989cbicJJmt1Apmmj6UfISxid83CWl70cDxCO4po2-66PZvxcG8zcvl42OH6Rr9Um5w=w353-h500-no?authuser=0"&gt;--&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;いつみつかる？&lt;/h4&gt;
-&lt;p&gt;🐜はるからあきにみつかるよ
+&lt;span style="color:#0000ff;" 
+onmouseover="document.all.item('txt01').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt01').
+style.visibility='hidden'"&gt;
+いつみつかる？&lt;/span&gt;
+&lt;span ID="txt01" style="visibility:hidden; 
+color:#ff0000;" &gt;Where do they find?&lt;/span&gt;
+&lt;br&gt;
+&lt;span style="color:#0000ff;" 
+onmouseover="document.all.item('txt02').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt02').
+style.visibility='hidden'"&gt;
+はるからあきにかけて&lt;/span&gt;
+&lt;span ID="txt02" style="visibility:hidden; 
+color:#ff0000;" &gt;From Sprint to Autumn&lt;/span&gt;
 &lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;どこにいるの？&lt;/h4&gt;
-&lt;p&gt;🐜ちかくのこうえんやおうちにとんでくるよ
+&lt;h4&gt;Where are they?&lt;/h4&gt;
+&lt;p&gt;🐜Flying to a nearby park or your house
 &lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;おおきさはどのぐらいなの？&lt;/h4&gt;
-&lt;p&gt;🐜てのひらぐらいだよ
+&lt;h4&gt;How big is they?&lt;/h4&gt;
+&lt;p&gt;🐜About the size of your hand
 &lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;なにをたべるの？&lt;/h4&gt;
-&lt;p&gt;🐜はなのみつをすうよ
-&lt;br&gt;
-&lt;br&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;たまごはどこにうむの？&lt;/h4&gt;
-&lt;p&gt;🐜きのはっぱにうむよ
+&lt;h4&gt;What are they eating?&lt;/h4&gt;
+&lt;p&gt;🐜They are drinking the honey from the flowers.
 &lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;ようちゅうはどこにいるの？&lt;/h4&gt;
-&lt;p&gt;🐜はっぱにいるよ
+&lt;h4&gt;Where do they lay their …&lt;/h4&gt;</summary><content type="html">&lt;!--&lt;img alt="" src=""&gt;--&gt;
+
+&lt;h4&gt;Graphium sarpedon&lt;/h4&gt;
+&lt;p&gt;&lt;br&gt;
+&lt;!--&lt;img alt="ごまだらかみきり_さしえ" src="https://lh3.googleusercontent.com/pw/ACtC-3czL1Ta4FLYMF48AMBhzzP2CtNd4TMO6QmmDKhrmi0USe4IqzxiMLkXzBVa2qFD7tD-UEjWDKd2wPQE-5XybaT989cbicJJmt1Apmmj6UfISxid83CWl70cDxCO4po2-66PZvxcG8zcvl42OH6Rr9Um5w=w353-h500-no?authuser=0"&gt;--&gt;
+&lt;span style="color:#0000ff;" 
+onmouseover="document.all.item('txt01').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt01').
+style.visibility='hidden'"&gt;
+いつみつかる？&lt;/span&gt;
+&lt;span ID="txt01" style="visibility:hidden; 
+color:#ff0000;" &gt;Where do they find?&lt;/span&gt;
+&lt;br&gt;
+&lt;span style="color:#0000ff;" 
+onmouseover="document.all.item('txt02').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt02').
+style.visibility='hidden'"&gt;
+はるからあきにかけて&lt;/span&gt;
+&lt;span ID="txt02" style="visibility:hidden; 
+color:#ff0000;" &gt;From Sprint to Autumn&lt;/span&gt;
 &lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;ようちゅうはなにをたべるの？&lt;/h4&gt;
-&lt;p&gt;🐜はっぱをたべるよ
+&lt;h4&gt;Where are they?&lt;/h4&gt;
+&lt;p&gt;🐜Flying to a nearby park or your house
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;How big is they?&lt;/h4&gt;
+&lt;p&gt;🐜About the size of your hand
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;What are they eating?&lt;/h4&gt;
+&lt;p&gt;🐜They are drinking the honey from the flowers.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;Where do they lay their eggs？&lt;/h4&gt;
+&lt;p&gt;🐜they lay their eggs on the leaves of trees.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;Where are the larvae?&lt;/h4&gt;
+&lt;p&gt;🐜There're in the leaves.
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;What do the larvae eat?&lt;/h4&gt;
+&lt;p&gt;🐜They eat the leaves.
 &lt;br&gt;
 &lt;br&gt;
 &lt;br&gt;
