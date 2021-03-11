@@ -8,7 +8,7 @@
 onmouseover="document.all.item('txt01').
 style.visibility='visible'" 
 onmouseout="document.all.item('txt01').
-style.visibility='hidden'"&gt;
+style.visibility='visible'"&gt;
 いつみつかる？&lt;/span&gt;
 &lt;span ID="txt01" style="visibility:hidden; 
 color:#1EAEDB;" &gt;Where do they find?&lt;/span&gt;
@@ -89,7 +89,7 @@ color:#1EAEDB;" &gt;They are drinking the honey from the …&lt;/span&gt;&lt;/p&
 onmouseover="document.all.item('txt01').
 style.visibility='visible'" 
 onmouseout="document.all.item('txt01').
-style.visibility='hidden'"&gt;
+style.visibility='visible'"&gt;
 いつみつかる？&lt;/span&gt;
 &lt;span ID="txt01" style="visibility:hidden; 
 color:#1EAEDB;" &gt;Where do they find?&lt;/span&gt;
