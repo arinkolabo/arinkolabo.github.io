@@ -178,8 +178,7 @@ color:#1EAEDB;" &gt;Where do they lay their eggs?&lt;/span&gt;
 onmouseover="document.all.item('txt10').
 style.visibility='visible'" 
 onmouseout="document.all.item('txt10').
-style.visibility='hidden'"&gt;
-　　　　　　　　🐜きのはっぱにたまごをうむよ&lt;/span&gt;
+style.visibility='hidden'"&gt;　　🐜きのはっぱにたまごをうむよ&lt;/span&gt;
 &lt;span ID="txt10" style="visibility:hidden; 
 color:#1EAEDB;" &gt;They lay their eggs on the leaves of trees.&lt;/span&gt;
 &lt;br&gt;
@@ -199,7 +198,7 @@ onmouseover="document.all.item('txt12').
 style.visibility='visible'" 
 onmouseout="document.all.item('txt12').
 style.visibility='hidden'"&gt;
-🐜はっぱにいるよ&lt;/span&gt;
+　　　　🐜はっぱにいるよ&lt;/span&gt;
 &lt;span ID="txt12" style="visibility:hidden; 
 color:#1EAEDB;" &gt;There're in the leaves.&lt;/span&gt;
 &lt;br&gt;
