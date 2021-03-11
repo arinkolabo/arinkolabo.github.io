@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>arinkolabo</title><link href="https://arinkolabo.github.io/" rel="alternate"></link><link href="https://arinkolabo.github.io/feeds/all.atom.xml" rel="self"></link><id>https://arinkolabo.github.io/</id><updated>2020-02-23T00:00:00+09:00</updated><entry><title>あおすじあげは</title><link href="https://arinkolabo.github.io/%E3%81%82%E3%81%8A%E3%81%99%E3%81%98%E3%81%82%E3%81%92%E3%81%AF.html" rel="alternate"></link><published>2020-02-23T00:00:00+09:00</published><updated>2020-02-23T00:00:00+09:00</updated><author><name>ありんこはかせ</name></author><id>tag:arinkolabo.github.io,2020-02-23:/あおすじあげは.html</id><summary type="html">&lt;!--&lt;img alt="" src=""&gt;--&gt;
 
-&lt;h4&gt;Graphium sarpedon&lt;/h4&gt;
-&lt;p&gt;&lt;br&gt;
-&lt;!--&lt;img alt="ごまだらかみきり_さしえ" src="https://lh3.googleusercontent.com/pw/ACtC-3czL1Ta4FLYMF48AMBhzzP2CtNd4TMO6QmmDKhrmi0USe4IqzxiMLkXzBVa2qFD7tD-UEjWDKd2wPQE-5XybaT989cbicJJmt1Apmmj6UfISxid83CWl70cDxCO4po2-66PZvxcG8zcvl42OH6Rr9Um5w=w353-h500-no?authuser=0"&gt;--&gt;
+&lt;h5&gt;Graphium sarpedon&lt;/h5&gt;
+&lt;p&gt;&lt;!--&lt;img alt="ごまだらかみきり_さしえ" src="https://lh3.googleusercontent.com/pw/ACtC-3czL1Ta4FLYMF48AMBhzzP2CtNd4TMO6QmmDKhrmi0USe4IqzxiMLkXzBVa2qFD7tD-UEjWDKd2wPQE-5XybaT989cbicJJmt1Apmmj6UfISxid83CWl70cDxCO4po2-66PZvxcG8zcvl42OH6Rr9Um5w=w353-h500-no?authuser=0"&gt;--&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt01').
 style.visibility='visible'" 
@@ -50,6 +49,7 @@ style.visibility='hidden'"&gt;
 おおきさはどれぐらいなの？&lt;/span&gt;
 &lt;span ID="txt05" style="visibility:hidden; 
 color:#1EAEDB;" &gt;How big are they?&lt;/span&gt;
+&lt;br&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt06').
 style.visibility='visible'" 
@@ -68,6 +68,7 @@ style.visibility='hidden'"&gt;
 なにをたべているの？&lt;/span&gt;
 &lt;span ID="txt07" style="visibility:hidden; 
 color:#1EAEDB;" &gt;What are they eating?&lt;/span&gt;
+&lt;br&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt08').
 style.visibility='visible'" 
@@ -77,9 +78,8 @@ style.visibility='hidden'"&gt;
 &lt;span ID="txt08" style="visibility:hidden; 
 color:#1EAEDB;" &gt;They are drinking the honey from the …&lt;/span&gt;&lt;/p&gt;</summary><content type="html">&lt;!--&lt;img alt="" src=""&gt;--&gt;
 
-&lt;h4&gt;Graphium sarpedon&lt;/h4&gt;
-&lt;p&gt;&lt;br&gt;
-&lt;!--&lt;img alt="ごまだらかみきり_さしえ" src="https://lh3.googleusercontent.com/pw/ACtC-3czL1Ta4FLYMF48AMBhzzP2CtNd4TMO6QmmDKhrmi0USe4IqzxiMLkXzBVa2qFD7tD-UEjWDKd2wPQE-5XybaT989cbicJJmt1Apmmj6UfISxid83CWl70cDxCO4po2-66PZvxcG8zcvl42OH6Rr9Um5w=w353-h500-no?authuser=0"&gt;--&gt;
+&lt;h5&gt;Graphium sarpedon&lt;/h5&gt;
+&lt;p&gt;&lt;!--&lt;img alt="ごまだらかみきり_さしえ" src="https://lh3.googleusercontent.com/pw/ACtC-3czL1Ta4FLYMF48AMBhzzP2CtNd4TMO6QmmDKhrmi0USe4IqzxiMLkXzBVa2qFD7tD-UEjWDKd2wPQE-5XybaT989cbicJJmt1Apmmj6UfISxid83CWl70cDxCO4po2-66PZvxcG8zcvl42OH6Rr9Um5w=w353-h500-no?authuser=0"&gt;--&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt01').
 style.visibility='visible'" 
@@ -126,6 +126,7 @@ style.visibility='hidden'"&gt;
 おおきさはどれぐらいなの？&lt;/span&gt;
 &lt;span ID="txt05" style="visibility:hidden; 
 color:#1EAEDB;" &gt;How big are they?&lt;/span&gt;
+&lt;br&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt06').
 style.visibility='visible'" 
@@ -144,6 +145,7 @@ style.visibility='hidden'"&gt;
 なにをたべているの？&lt;/span&gt;
 &lt;span ID="txt07" style="visibility:hidden; 
 color:#1EAEDB;" &gt;What are they eating?&lt;/span&gt;
+&lt;br&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt08').
 style.visibility='visible'" 
@@ -160,6 +162,7 @@ style.visibility='visible'"
 onmouseout="document.all.item('txt09').
 style.visibility='hidden'"&gt;
 どこにたまごをうむの？&lt;/span&gt;
+&lt;br&gt;
 &lt;span ID="txt09" style="visibility:hidden; 
 color:#1EAEDB;" &gt;Where do they lay their eggs?&lt;/span&gt;
 &lt;span style="color:#000000;" 
@@ -180,6 +183,7 @@ style.visibility='hidden'"&gt;
 ようちゅうはどこにいるの？&lt;/span&gt;
 &lt;span ID="txt11" style="visibility:hidden; 
 color:#1EAEDB;" &gt;Where are the larvae?&lt;/span&gt;
+&lt;br&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt12').
 style.visibility='visible'" 
@@ -198,6 +202,7 @@ style.visibility='hidden'"&gt;
 ようちゅうはなにをたべるの？&lt;/span&gt;
 &lt;span ID="txt13" style="visibility:hidden; 
 color:#1EAEDB;" &gt;What do the larvae eat?&lt;/span&gt;
+&lt;br&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt14').
 style.visibility='visible'" 
