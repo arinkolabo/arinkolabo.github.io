@@ -24,18 +24,18 @@ color:#1EAEDB;" &gt;🐜From Spring to Autumn&lt;/span&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;span style="color:#000000;" 
-onmouseover="document.all.item('txt02').
+onmouseover="document.all.item('txt03').
 style.visibility='visible'" 
-onmouseout="document.all.item('txt02').
+onmouseout="document.all.item('txt03').
 style.visibility='hidden'"&gt;
 どこにいるの？&lt;/span&gt;
 &lt;span ID="txt02" style="visibility:hidden; 
 color:#1EAEDB;" &gt;Where are they?&lt;/span&gt;
 &lt;br&gt;
 &lt;span style="color:#000000;" 
-onmouseover="document.all.item('txt02').
+onmouseover="document.all.item('txt04').
 style.visibility='visible'" 
-onmouseout="document.all.item('txt02').
+onmouseout="document.all.item('txt04').
 style.visibility='hidden'"&gt;
 🐜ちかくのこうえんやおうちにとんでくるよ&lt;/span&gt;
 &lt;span ID="txt02" style="visibility:hidden; 
@@ -75,18 +75,18 @@ color:#1EAEDB;" &gt;🐜From Spring to Autumn&lt;/span&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;span style="color:#000000;" 
-onmouseover="document.all.item('txt02').
+onmouseover="document.all.item('txt03').
 style.visibility='visible'" 
-onmouseout="document.all.item('txt02').
+onmouseout="document.all.item('txt03').
 style.visibility='hidden'"&gt;
 どこにいるの？&lt;/span&gt;
 &lt;span ID="txt02" style="visibility:hidden; 
 color:#1EAEDB;" &gt;Where are they?&lt;/span&gt;
 &lt;br&gt;
 &lt;span style="color:#000000;" 
-onmouseover="document.all.item('txt02').
+onmouseover="document.all.item('txt04').
 style.visibility='visible'" 
-onmouseout="document.all.item('txt02').
+onmouseout="document.all.item('txt04').
 style.visibility='hidden'"&gt;
 🐜ちかくのこうえんやおうちにとんでくるよ&lt;/span&gt;
 &lt;span ID="txt02" style="visibility:hidden; 
