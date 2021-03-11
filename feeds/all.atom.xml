@@ -29,7 +29,7 @@ style.visibility='visible'"
 onmouseout="document.all.item('txt03').
 style.visibility='hidden'"&gt;
 どこにいるの？&lt;/span&gt;
-&lt;span ID="txt02" style="visibility:hidden; 
+&lt;span ID="txt03" style="visibility:hidden; 
 color:#1EAEDB;" &gt;Where are they?&lt;/span&gt;
 &lt;br&gt;
 &lt;span style="color:#000000;" 
@@ -38,7 +38,7 @@ style.visibility='visible'"
 onmouseout="document.all.item('txt04').
 style.visibility='hidden'"&gt;
 🐜ちかくのこうえんやおうちにとんでくるよ&lt;/span&gt;
-&lt;span ID="txt02" style="visibility:hidden; 
+&lt;span ID="txt04" style="visibility:hidden; 
 color:#1EAEDB;" &gt;🐜Flying to a nearby park or your house &lt;/span&gt;
 &lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
@@ -80,7 +80,7 @@ style.visibility='visible'"
 onmouseout="document.all.item('txt03').
 style.visibility='hidden'"&gt;
 どこにいるの？&lt;/span&gt;
-&lt;span ID="txt02" style="visibility:hidden; 
+&lt;span ID="txt03" style="visibility:hidden; 
 color:#1EAEDB;" &gt;Where are they?&lt;/span&gt;
 &lt;br&gt;
 &lt;span style="color:#000000;" 
@@ -89,7 +89,7 @@ style.visibility='visible'"
 onmouseout="document.all.item('txt04').
 style.visibility='hidden'"&gt;
 🐜ちかくのこうえんやおうちにとんでくるよ&lt;/span&gt;
-&lt;span ID="txt02" style="visibility:hidden; 
+&lt;span ID="txt04" style="visibility:hidden; 
 color:#1EAEDB;" &gt;🐜Flying to a nearby park or your house &lt;/span&gt;
 &lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
