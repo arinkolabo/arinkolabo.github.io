@@ -3,6 +3,7 @@
 
 &lt;h5&gt;Graphium sarpedon&lt;/h5&gt;
 &lt;p&gt;&lt;!--&lt;img alt="ごまだらかみきり_さしえ" src="https://lh3.googleusercontent.com/pw/ACtC-3czL1Ta4FLYMF48AMBhzzP2CtNd4TMO6QmmDKhrmi0USe4IqzxiMLkXzBVa2qFD7tD-UEjWDKd2wPQE-5XybaT989cbicJJmt1Apmmj6UfISxid83CWl70cDxCO4po2-66PZvxcG8zcvl42OH6Rr9Um5w=w353-h500-no?authuser=0"&gt;--&gt;
+&lt;!--１文目 --&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt01').
 style.visibility='visible'" 
@@ -22,6 +23,7 @@ style.visibility='hidden'"&gt;
 color:#1EAEDB;" &gt;From Spring to Autumn&lt;/span&gt;
 &lt;br&gt;
 &lt;br&gt;
+&lt;!-- 2文目 --&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt03').
 style.visibility='visible'" 
@@ -36,11 +38,12 @@ onmouseover="document.all.item('txt04').
 style.visibility='visible'" 
 onmouseout="document.all.item('txt04').
 style.visibility='hidden'"&gt;
-🐜ちかくのこうえんやおうちにとんでくるよ&lt;/span&gt;
+🐜ちかくのこうえんやおうちにとんでくるよ！&lt;/span&gt;
 &lt;span ID="txt04" style="visibility:hidden; 
-color:#1EAEDB;" &gt;Flying to a nearby park or your house &lt;/span&gt;
+color:#1EAEDB;" &gt;Flying to a nearby park and your house&lt;/span&gt;
 &lt;br&gt;
 &lt;br&gt;
+&lt;!-- 3文目 --&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt05').
 style.visibility='visible'" 
@@ -60,6 +63,7 @@ style.visibility='hidden'"&gt;
 color:#1EAEDB;" &gt;About the size of your hand &lt;/span&gt;
 &lt;br&gt;
 &lt;br&gt;
+&lt;!-- 4文目　--&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt07').
 style.visibility='visible'" 
@@ -80,6 +84,7 @@ color:#1EAEDB;" &gt;They are drinking the honey from the …&lt;/span&gt;&lt;/p&
 
 &lt;h5&gt;Graphium sarpedon&lt;/h5&gt;
 &lt;p&gt;&lt;!--&lt;img alt="ごまだらかみきり_さしえ" src="https://lh3.googleusercontent.com/pw/ACtC-3czL1Ta4FLYMF48AMBhzzP2CtNd4TMO6QmmDKhrmi0USe4IqzxiMLkXzBVa2qFD7tD-UEjWDKd2wPQE-5XybaT989cbicJJmt1Apmmj6UfISxid83CWl70cDxCO4po2-66PZvxcG8zcvl42OH6Rr9Um5w=w353-h500-no?authuser=0"&gt;--&gt;
+&lt;!--１文目 --&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt01').
 style.visibility='visible'" 
@@ -99,6 +104,7 @@ style.visibility='hidden'"&gt;
 color:#1EAEDB;" &gt;From Spring to Autumn&lt;/span&gt;
 &lt;br&gt;
 &lt;br&gt;
+&lt;!-- 2文目 --&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt03').
 style.visibility='visible'" 
@@ -113,11 +119,12 @@ onmouseover="document.all.item('txt04').
 style.visibility='visible'" 
 onmouseout="document.all.item('txt04').
 style.visibility='hidden'"&gt;
-🐜ちかくのこうえんやおうちにとんでくるよ&lt;/span&gt;
+🐜ちかくのこうえんやおうちにとんでくるよ！&lt;/span&gt;
 &lt;span ID="txt04" style="visibility:hidden; 
-color:#1EAEDB;" &gt;Flying to a nearby park or your house &lt;/span&gt;
+color:#1EAEDB;" &gt;Flying to a nearby park and your house&lt;/span&gt;
 &lt;br&gt;
 &lt;br&gt;
+&lt;!-- 3文目 --&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt05').
 style.visibility='visible'" 
@@ -137,6 +144,7 @@ style.visibility='hidden'"&gt;
 color:#1EAEDB;" &gt;About the size of your hand &lt;/span&gt;
 &lt;br&gt;
 &lt;br&gt;
+&lt;!-- 4文目　--&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt07').
 style.visibility='visible'" 
@@ -156,6 +164,7 @@ style.visibility='hidden'"&gt;
 color:#1EAEDB;" &gt;They are drinking the honey from the flowers.&lt;/span&gt;
 &lt;br&gt;
 &lt;br&gt;
+&lt;!-- 5文目　--&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt09').
 style.visibility='visible'" 
@@ -175,6 +184,7 @@ style.visibility='hidden'"&gt;
 color:#1EAEDB;" &gt;They lay their eggs on the leaves of trees.&lt;/span&gt;
 &lt;br&gt;
 &lt;br&gt;
+&lt;!-- 6文目　--&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt11').
 style.visibility='visible'" 
@@ -194,6 +204,7 @@ style.visibility='hidden'"&gt;
 color:#1EAEDB;" &gt;There're in the leaves.&lt;/span&gt;
 &lt;br&gt;
 &lt;br&gt;
+&lt;!-- 7文目　--&gt;
 &lt;span style="color:#000000;" 
 onmouseover="document.all.item('txt13').
 style.visibility='visible'" 
@@ -209,9 +220,8 @@ style.visibility='visible'"
 onmouseout="document.all.item('txt14').
 style.visibility='hidden'"&gt;
 🐜はっぱをたべるよ&lt;/span&gt;
-&lt;span ID="txt04" style="visibility:hidden; 
-color:#1EAEDB;" &gt;They eat the leaves.&lt;/span&gt;
-&lt;br&gt;
+&lt;span ID="txt14" style="visibility:hidden; 
+color:#1EAEDB;" &gt;There eat the leaves.&lt;/span&gt;
 &lt;br&gt;
 &lt;br&gt;
 &lt;div align="right"&gt;20200825&lt;/div&gt;
