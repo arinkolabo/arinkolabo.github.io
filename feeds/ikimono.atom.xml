@@ -228,10 +228,8 @@ color:#1EAEDB;" &gt;There eat the leaves.&lt;/span&gt;
 &lt;br&gt;&lt;/p&gt;</content><category term="いきもの"></category><category term="あげはちょうのなかま"></category></entry><entry><title>あおすじあげは1</title><link href="https://arinkolabo.github.io/%E3%81%82%E3%81%8A%E3%81%99%E3%81%98%E3%81%82%E3%81%92%E3%81%AF1.html" rel="alternate"></link><published>2020-02-23T00:00:00+09:00</published><updated>2020-02-23T00:00:00+09:00</updated><author><name>ありんこはかせ</name></author><id>tag:arinkolabo.github.io,2020-02-23:/あおすじあげは1.html</id><summary type="html">&lt;!--&lt;img alt="" src=""&gt;--&gt;
 
 &lt;h5&gt;Graphium sarpedon&lt;/h5&gt;
-&lt;p&gt;&amp;lt;div class="tooltip2"&amp;gt;
-    &amp;lt;p&amp;gt;テキスト&amp;lt;/p&amp;gt;
-    &amp;lt;div class="description2"&amp;gt;説明を入力してください。&amp;lt;/div&amp;gt;
-&amp;lt;/div&amp;gt;&lt;/p&gt;
+&lt;div class="tooltip2"&gt; &lt;p&gt;テキスト&lt;/p&gt; &lt;div class="description2"&gt;説明を入力してください。&lt;/div&gt; &lt;/div&gt;
+
 &lt;!--&lt;img alt="ごまだらかみきり_さしえ" src="https://lh3.googleusercontent.com/pw/ACtC-3czL1Ta4FLYMF48AMBhzzP2CtNd4TMO6QmmDKhrmi0USe4IqzxiMLkXzBVa2qFD7tD-UEjWDKd2wPQE-5XybaT989cbicJJmt1Apmmj6UfISxid83CWl70cDxCO4po2-66PZvxcG8zcvl42OH6Rr9Um5w=w353-h500-no?authuser=0"&gt;--&gt;
 
 &lt;!--１文目 --&gt;
@@ -301,13 +299,22 @@ onmouseover="document.all.item('txt07').
 style.visibility='visible'" 
 onmouseout="document.all.item('txt07').
 style.visibility='visible'"&gt;
-なにをたべているの …&lt;/span&gt;&lt;/p&gt;</summary><content type="html">&lt;!--&lt;img alt="" src=""&gt;--&gt;
+なにをたべているの？&lt;/span&gt;
+&lt;span ID="txt07" style="visibility:hidden; 
+color:#1EAEDB;" &gt;What are they eating?&lt;/span&gt;
+&lt;br&gt;
+&lt;span style="color:#000000;" 
+onmouseover="document.all.item('txt08').
+style.visibility='visible'" 
+onmouseout="document.all.item('txt08').
+style.visibility='visible'"&gt;
+　　　　　　　　　🐜はなのみつをすっているよ&lt;/span&gt;
+&lt;span ID="txt08" style="visibility:hidden; 
+color:#1EAEDB;" &gt;They are drinking the honey …&lt;/span&gt;&lt;/p&gt;</summary><content type="html">&lt;!--&lt;img alt="" src=""&gt;--&gt;
 
 &lt;h5&gt;Graphium sarpedon&lt;/h5&gt;
-&lt;p&gt;&amp;lt;div class="tooltip2"&amp;gt;
-    &amp;lt;p&amp;gt;テキスト&amp;lt;/p&amp;gt;
-    &amp;lt;div class="description2"&amp;gt;説明を入力してください。&amp;lt;/div&amp;gt;
-&amp;lt;/div&amp;gt;&lt;/p&gt;
+&lt;div class="tooltip2"&gt; &lt;p&gt;テキスト&lt;/p&gt; &lt;div class="description2"&gt;説明を入力してください。&lt;/div&gt; &lt;/div&gt;
+
 &lt;!--&lt;img alt="ごまだらかみきり_さしえ" src="https://lh3.googleusercontent.com/pw/ACtC-3czL1Ta4FLYMF48AMBhzzP2CtNd4TMO6QmmDKhrmi0USe4IqzxiMLkXzBVa2qFD7tD-UEjWDKd2wPQE-5XybaT989cbicJJmt1Apmmj6UfISxid83CWl70cDxCO4po2-66PZvxcG8zcvl42OH6Rr9Um5w=w353-h500-no?authuser=0"&gt;--&gt;
 
 &lt;!--１文目 --&gt;
