@@ -9,6 +9,18 @@ body {
 
 <!-- 追記分 -->
 
+
+
+.iki-q-jp{
+	text-align: left;
+}
+
+.iki-q-jp{
+	text-align: right;
+}
+
+
+
 .tooltip2{
     position: relative;
     cursor: pointer;
