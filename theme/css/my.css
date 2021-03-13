@@ -12,11 +12,13 @@ body {
 
 
 .iki-q-jp{
-	text-align: left;
+  width: ***;
+  margin-left: auto;
 }
 
-.iki-q-jp{
-	text-align: right;
+.iki-a-jp{
+	width: ***;
+	margin-right: auto;
 }
 
 
