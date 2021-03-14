@@ -2,12 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>arinkolabo</title><link href="https://arinkolabo.github.io/" rel="alternate"></link><link href="https://arinkolabo.github.io/feeds/all.atom.xml" rel="self"></link><id>https://arinkolabo.github.io/</id><updated>2020-02-23T00:00:00+09:00</updated><entry><title>test</title><link href="https://arinkolabo.github.io/test.html" rel="alternate"></link><published>2020-02-23T00:00:00+09:00</published><updated>2020-02-23T00:00:00+09:00</updated><author><name>ありんこはかせ</name></author><id>tag:arinkolabo.github.io,2020-02-23:/test.html</id><summary type="html">&lt;!--&lt;img alt="" src=""&gt;--&gt;
 
 &lt;h5&gt;Graphium sarpedon&lt;/h5&gt;
-&lt;p class="iki-q-jp"&gt;
-    いつみつかる？
-&lt;/p&gt;
+&lt;div class="iki-q-jp"&gt;
+いつみつかる？&lt;/div&gt;
 
 &lt;div class="iki-a-jp"&gt;
-    🐜はるからあきにかけて
+🐜はるからあきにかけて
 &lt;/div&gt;
 
 &lt;p&gt;&lt;span style="color:#000000;" 
@@ -89,12 +88,11 @@ style.visibility='visible'"&gt;
 color:#1EAEDB;" &gt;They are drinking the honey …&lt;/span&gt;&lt;/p&gt;</summary><content type="html">&lt;!--&lt;img alt="" src=""&gt;--&gt;
 
 &lt;h5&gt;Graphium sarpedon&lt;/h5&gt;
-&lt;p class="iki-q-jp"&gt;
-    いつみつかる？
-&lt;/p&gt;
+&lt;div class="iki-q-jp"&gt;
+いつみつかる？&lt;/div&gt;
 
 &lt;div class="iki-a-jp"&gt;
-    🐜はるからあきにかけて
+🐜はるからあきにかけて
 &lt;/div&gt;
 
 &lt;p&gt;&lt;span style="color:#000000;" 
