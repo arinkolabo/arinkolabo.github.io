@@ -3,32 +3,14 @@
 @import url(http://fonts.googleapis.com/css?family=Poppins);
 @import url(http://fonts.googleapis.com/css?family=Roboto);
 
-/**
-body {
-    font-family: 'Roboto';
-}
 
 
 .iki-q-jp{
-	float: right;
+  text-align: left;
 }
 
 .iki-a-jp{
-	float: left;
-}
-
-**/
-
-
-
-
-p.iki-q-jp{
-  float: right;
   text-align: right;
-}
-
-.iki-a-jp{
-  float: right;
 }
 
 
