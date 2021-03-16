@@ -2,6 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>arinkolabo</title><link href="https://arinkolabo.github.io/" rel="alternate"></link><link href="https://arinkolabo.github.io/feeds/all.atom.xml" rel="self"></link><id>https://arinkolabo.github.io/</id><updated>2020-02-23T00:00:00+09:00</updated><entry><title>test</title><link href="https://arinkolabo.github.io/test.html" rel="alternate"></link><published>2020-02-23T00:00:00+09:00</published><updated>2020-02-23T00:00:00+09:00</updated><author><name>ありんこはかせ</name></author><id>tag:arinkolabo.github.io,2020-02-23:/test.html</id><content type="html">&lt;!--&lt;img alt="" src=""&gt;--&gt;
 
 &lt;h5&gt;Graphium sarpedon&lt;/h5&gt;
+&lt;div class="css-fukidashi"&gt;
+  &lt;p class="text"&gt;ここをマウスオーバーすると・・・&lt;/p&gt;
+  &lt;p class="fukidashi"&gt;吹き出しが表示されます&lt;/p&gt;
+&lt;/div&gt;
+
 &lt;div class="tooltip2"&gt;
     &lt;p&gt;いつみつかる？&lt;/p&gt;
     &lt;div class="description2"&gt;Where do they find?&lt;/div&gt;
