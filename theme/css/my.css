@@ -23,7 +23,7 @@
     visibility:visible }
 .hover-drawing-container .sibling-hover-draw,.hover-drawing-container .drawing-content {
     border:0px solid #ccc;
-    width:100%;
+    width:200px;
     max-width:none }
 .hover-drawing-container .drawing-content {
     border-top:none }
