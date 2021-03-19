@@ -2,6 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom"><title>arinkolabo</title><link href="https://arinkolabo.github.io/" rel="alternate"></link><link href="https://arinkolabo.github.io/feeds/all.atom.xml" rel="self"></link><id>https://arinkolabo.github.io/</id><updated>2020-02-23T00:00:00+09:00</updated><entry><title>test</title><link href="https://arinkolabo.github.io/test.html" rel="alternate"></link><published>2020-02-23T00:00:00+09:00</published><updated>2020-02-23T00:00:00+09:00</updated><author><name>ありんこはかせ</name></author><id>tag:arinkolabo.github.io,2020-02-23:/test.html</id><content type="html">&lt;!--&lt;img alt="" src=""&gt;--&gt;
 
 &lt;h5&gt;Graphium sarpedon&lt;/h5&gt;
+&lt;div class="hover-drawing-container"&gt;
+    &lt;span class="sibling-hover-draw"&gt;hover me!&lt;/span&gt;
+    &lt;ul class="drawing-content"&gt;
+        &lt;li&gt;www.tenman.info&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;CSS note&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/div&gt;
+
+&lt;div class="balloonoya"&gt;マウスを乗せてください
+  &lt;span class="balloon"&gt;吹き出しが表示される&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;ul id="nav"&gt;
+   &lt;li&gt;&lt;a href="#"&gt;&lt;span class="en"&gt;news&lt;/span&gt;&lt;span class="jp"&gt;お知らせ&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+   &lt;li&gt;&lt;a href="#"&gt;&lt;span class="en"&gt;profile&lt;/span&gt;&lt;span class="jp"&gt;プロフィール&lt;/span&gt;&lt;/a&gt;&lt;/li&gt;
+ &lt;/ul&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href="#"&gt;
+&lt;span class="nomal"&gt;普通のとき&lt;/span&gt;
+&lt;span class="hover"&gt;ホバーされた時&lt;/span&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="button" href="#"&gt;&lt;span&gt;ボタン&lt;/span&gt;&lt;span&gt;Button&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;div class="cp_tooltip"&gt;テキスト&lt;span data-tooltip="ツールチップテキスト" class="cp_tooltiptext"&gt;マウスオーバーテキスト&lt;/span&gt;テキスト&lt;/div&gt;
 
 &lt;div class="iki-q-jp"&gt;
