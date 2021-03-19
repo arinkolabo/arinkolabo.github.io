@@ -3,7 +3,7 @@
 
 
 .hover-drawing-container {
-    width:300px }
+    width:100% }
 .hover-drawing-container .drawing-content {
     visibility:hidden;
     transition:visibility 1s }
@@ -23,7 +23,7 @@
     visibility:visible }
 .hover-drawing-container .sibling-hover-draw,.hover-drawing-container .drawing-content {
     border:0px solid #ccc;
-    width:300px;
+    width:100%;
     max-width:none }
 .hover-drawing-container .drawing-content {
     border-top:none }
