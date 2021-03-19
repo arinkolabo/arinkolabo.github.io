@@ -3,8 +3,8 @@
 
 &lt;h5&gt;Graphium sarpedon&lt;/h5&gt;
 &lt;div class="hover-drawing-container"&gt;
-    &lt;span class="sibling-hover-draw"&gt;いつみつかる？&lt;/span&gt;
-    &lt;span class="drawing-content"&gt;When do they find?&lt;/span&gt;
+    &lt;p&gt;&lt;span class="sibling-hover-draw"&gt;いつみつかる？&lt;/span&gt;
+    &lt;span class="drawing-content"&gt;When do they find?&lt;/span&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class="iki-q-jp"&gt;
