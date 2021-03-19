@@ -22,7 +22,7 @@
 .hover-drawing-container:hover .drawing-content {
     visibility:visible }
 .hover-drawing-container .sibling-hover-draw,.hover-drawing-container .drawing-content {
-    border:1px solid #ccc;
+    border:0px solid #ccc;
     width:300px;
     max-width:none }
 .hover-drawing-container .drawing-content {
