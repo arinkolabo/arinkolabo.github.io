@@ -1,24 +1,30 @@
 /* default && mobile */
 
-.hover-drawing-container {
+
+
+
+
+
+
+.ikimono {
 }
-.hover-drawing-container .drawing-content {
+.ikimono .ikimono-content {
     visibility:hidden;
     transition:visibility 1s }
-.hover-drawing-container .sibling-hover-draw {
+.ikimono .sibling-hover-ikimono {
     visibility:visible;
  }
-.hover-drawing-container .sibling-hover-draw,.hover-drawing-container .drawing-content {
+.ikimono .sibling-hover-ikimono,.ikimono .ikimono-content {
     display:block;
 }
-.hover-drawing-container .drawing-content {
+.ikimono .ikimono-content {
     position:static;
  }
-.hover-drawing-container:hover .drawing-content {
+.ikimono:hover .ikimono-content {
     visibility:visible }
-.hover-drawing-container .sibling-hover-draw,.hover-drawing-container .drawing-content {
+.ikimono .sibling-hover-ikimono,.ikimono .ikimono-content {
     max-width:none }
-.hover-drawing-container .drawing-content {
+.ikimono .ikimono-content {
     border-top:none }
 
 

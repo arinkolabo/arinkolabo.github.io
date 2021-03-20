@@ -9,6 +9,13 @@
     &lt;/tr&gt;
 &lt;/table&gt;
 
+&lt;table class="ikimono"&gt;
+    &lt;tr&gt;
+    &lt;td class="sibling-hover-ikimono"&gt;いつみつかる？&lt;/td&gt;
+    &lt;td class="ikimono-content"&gt;When can you find them?&lt;/td&gt;
+    &lt;tr&gt;
+&lt;/table&gt;
+
 &lt;!--
 &lt;table class="hover-drawing-container" border="3"&gt;
     &lt;tr&gt;
