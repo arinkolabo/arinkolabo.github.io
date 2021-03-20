@@ -1,7 +1,28 @@
 /* default && mobile */
 
+.hover-drawing-container {
+}
+.hover-drawing-container .drawing-content {
+    visibility:hidden;
+    transition:visibility 1s }
+.hover-drawing-container .sibling-hover-draw {
+    visibility:visible;
+ }
+.hover-drawing-container .sibling-hover-draw,.hover-drawing-container .drawing-content {
+    display:block;
+}
+.hover-drawing-container .drawing-content {
+    position:static;
+ }
+.hover-drawing-container:hover .drawing-content {
+    visibility:visible }
+.hover-drawing-container .sibling-hover-draw,.hover-drawing-container .drawing-content {
+    max-width:none }
+.hover-drawing-container .drawing-content {
+    border-top:none }
 
 
+/*
 .hover-drawing-container {
     width:100% }
 .hover-drawing-container .drawing-content {
@@ -28,3 +49,4 @@
 .hover-drawing-container .drawing-content {
     border-top:none }
 
+*/
