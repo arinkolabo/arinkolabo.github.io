@@ -10,25 +10,25 @@ body {
 <!-- 追記分 -->
 .ikimono {
 }
-.ikimono .ikimono-content {
+.ikimono .ikimono-en {
     visibility:hidden;
     transition:visibility 1s }
 .ikimono .sibling-hover-ikimono {
     visibility:visible;
  }
-.ikimono .sibling-hover-ikimono,.ikimono .ikimono-content {
+.ikimono .sibling-hover-ikimono,.ikimono .ikimono-en {
     display:block;
 }
-.ikimono .ikimono-content {
+.ikimono .ikimono-en {
     position:static;
  }
-.ikimono:hover .ikimono-content {
+.ikimono:hover .ikimono-en {
     visibility:visible; 
     color: #1EAEDB;
 }
-.ikimono .sibling-hover-ikimono,.ikimono .ikimono-content {
+.ikimono .sibling-hover-ikimono,.ikimono .ikimono-en {
     max-width:none }
-.ikimono .ikimono-content {
+.ikimono .ikimono-en {
     border-top:none }
 
 
