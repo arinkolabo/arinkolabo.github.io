@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom"><title>arinkolabo - misc</title><link href="https://arinkolabo.github.io/" rel="alternate"></link><link href="https://arinkolabo.github.io/feeds/misc.atom.xml" rel="self"></link><id>https://arinkolabo.github.io/</id><updated>2021-03-28T11:21:00+09:00</updated><entry><title>おてがみ</title><link href="https://arinkolabo.github.io/otegami.html" rel="alternate"></link><published>2021-03-28T00:00:00+09:00</published><updated>2021-03-28T11:21:00+09:00</updated><author><name>arinkohakase</name></author><id>tag:arinkolabo.github.io,2021-03-28:/otegami.html</id><content type="html">&lt;p&gt;ききたいこと、つたえたいこと&lt;/p&gt;
-&lt;p&gt;したにかいて、&lt;img&gt;&lt;/img&gt;をおしてね！&lt;/p&gt;
+&lt;p&gt;したにかいて、&lt;img alt="imagesフォルダのいぬ画像" src="https://arinkolabo.github.io/images/送信.jpg"&gt;をおしてね！&lt;/p&gt;
 &lt;iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd8AOQy3WGUdivF0Wnn3LvAkAciKBUaAWowLjLhcyBlOntL3Q/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0"&gt;読み込んでいます…&lt;/iframe&gt;</content><category term="misc"></category></entry></feed>
