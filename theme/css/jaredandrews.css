@@ -9,6 +9,30 @@ body {
 
 <!-- 追記分 -->
 
+
+.ikimono {
+}
+.ikimono .ikimono-content {
+    visibility:hidden;
+    transition:visibility 1s }
+.ikimono .sibling-hover-ikimono {
+    visibility:visible;
+ }
+.ikimono .sibling-hover-ikimono,.ikimono .ikimono-content {
+    display:block;
+}
+.ikimono .ikimono-content {
+    position:static;
+ }
+.ikimono:hover .ikimono-content {
+    visibility:visible }
+.ikimono .sibling-hover-ikimono,.ikimono .ikimono-content {
+    max-width:none }
+.ikimono .ikimono-content {
+    border-top:none }
+
+
+
 <!-- 終わり　-->
 
 
