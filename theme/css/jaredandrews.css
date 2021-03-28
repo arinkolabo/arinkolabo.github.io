@@ -8,8 +8,6 @@ body {
 }
 
 <!-- 追記分 -->
-
-
 .ikimono {
 }
 .ikimono .ikimono-content {
@@ -25,7 +23,9 @@ body {
     position:static;
  }
 .ikimono:hover .ikimono-content {
-    visibility:visible }
+    visibility:visible; 
+    color: #1EAEDB;
+}
 .ikimono .sibling-hover-ikimono,.ikimono .ikimono-content {
     max-width:none }
 .ikimono .ikimono-content {

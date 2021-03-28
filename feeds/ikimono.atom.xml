@@ -4,7 +4,7 @@
 &lt;h5&gt;Graphium sarpedon&lt;/h5&gt;
 &lt;div class="ikimono"&gt;
     &lt;b class="ikimono"&gt;いつみつかる？&lt;/b&gt;
-    &lt;blink class="ikimono-content"&gt;When can you find them?&lt;/blink&gt;
+    &lt;font class="ikimono-content"&gt;When can you find them?&lt;/blink&gt;
 &lt;/div&gt;
 
 &lt;table class="ikimono"&gt;
